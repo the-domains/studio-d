@@ -1,0 +1,56 @@
+typography_spectrum: 0.0751660139579326
+color:
+  brandColors:
+    - '#292929'
+    - '#656160'
+    - '#FDFDFD'
+    - '#CFCDCE'
+    - '#57B4D3'
+  brandStrength: 0.32801191426638404
+  lightness: 0.7684864775475004
+  saturation: 0.29439453155198825
+  rhythmicContrast: 0.6569982331928493
+layout_spectrum: 0.292081382422625
+name: Third Rock
+navigation:
+  - name: Partners in Crime
+    id: 86491170-70f9-44f7-bb47-95d159e01480
+    type: content
+  - name: Our Services
+    id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
+    type: content
+  - name: Our Rice Bowl
+    id: bd4a236d-c273-44ea-b38d-3861955060a8
+    type: content
+title: Third Rock
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81435f0a-8cc8-425e-94ef-dd6fcf1b28a8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/81435f0a-8cc8-425e-94ef-dd6fcf1b28a8.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Connect. Collaborate. Create. '
+purpose:
+  - type: contact
+    label: Contact Us
+    url: 'mailto:trdrock@gmail.com'
+  - type: contact
+    label: '+60123857845'
+    url: 'tel:+60123857845'
+github: true
