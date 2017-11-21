@@ -4,9 +4,9 @@
         <description><![CDATA[Third Rock]]></description>
         <link>https://thegrid.ai/studiod3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Nov 2017 16:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2017 16:31:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studiod3/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Nov 2017 16:31:04 GMT</pubDate>
+        <pubDate>Tue, 21 Nov 2017 16:31:07 GMT</pubDate>
         <item>
             <title><![CDATA[16 years and counting]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d2e9c7e-499a-42f7-8843-273329f3e021.jpg" title="16 years and counting" alt="Formed by a group of creative individuals sharing the same passion and enthusiasm in creative communications. We are very much hands on with each playing different roles in the projects that are awarded to us. Connect with us and see how we can collaborate and create out-of-box creative projects.">]]></description>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/studiod3/our-rice-bowl/index.html</link>
             <guid isPermaLink="false">bea63015-0eac-4e72-8609-30c3af48c503</guid>
             <pubDate>Tue, 21 Nov 2017 16:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Services]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a867a5e5-8dbe-40c1-a05d-59305f3d89ce.jpg" title="Our Services" alt="We don&apos;t claim to be the best but like like Avis, we try harder. Our team of broad artistic skills provide our clients a range of services ranging from  Campaign Launch + Brand Identity + Print &amp; Digital Design + Photography + Video">]]></description>
+            <link>https://thegrid.ai/studiod3/our-services/index.html</link>
+            <guid isPermaLink="false">aa2b6a4f-15e2-4f36-a7f8-9c9b56038278</guid>
+            <pubDate>Tue, 21 Nov 2017 16:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
