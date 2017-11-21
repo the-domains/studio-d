@@ -1,4 +1,5 @@
-typography_spectrum: 0.0751660139579326
+layout_spectrum: 0.26946372373970134
+typography_spectrum: 0.6179477641473312
 color:
   brandColors:
     - '#292929'
@@ -6,11 +7,10 @@ color:
     - '#FDFDFD'
     - '#CFCDCE'
     - '#57B4D3'
-  brandStrength: 0.32801191426638404
-  lightness: 0.7684864775475004
-  saturation: 0.29439453155198825
-  rhythmicContrast: 0.6569982331928493
-layout_spectrum: 0.292081382422625
+  brandStrength: 0.19395247167538815
+  lightness: 0.3773114719891939
+  saturation: 0.30211365081803265
+  rhythmicContrast: 0.9604273165469196
 name: Third Rock
 navigation:
   - name: Partners in Crime
