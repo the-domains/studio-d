@@ -1,3 +1,5 @@
+name: Third Rock
+layout_spectrum: 0.26946372373970134
 typography_spectrum: 0.6179477641473312
 color:
   brandColors:
@@ -10,11 +12,17 @@ color:
   lightness: 0.3773114719891939
   saturation: 0.30211365081803265
   rhythmicContrast: 0.9604273165469196
-github: true
-layout_spectrum: 0.26946372373970134
-name: Third Rock
+purpose:
+  - type: contact
+    label: Contact Us
+    url: 'mailto:trdrock@gmail.com'
+  - type: contact
+    label: '+60123857845'
+    url: 'tel:+60123857845'
+title: Third Rock
+description: 'Connect. Collaborate. Create. '
 navigation:
-  - name: Partners in Crime
+  - name: About Us
     id: 86491170-70f9-44f7-bb47-95d159e01480
     type: content
   - name: Our Rice Bowl
@@ -23,7 +31,6 @@ navigation:
   - name: Our Services
     id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
     type: content
-title: Third Rock
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -67,11 +74,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Connect. Collaborate. Create. '
-purpose:
-  - type: contact
-    label: Contact Us
-    url: 'mailto:trdrock@gmail.com'
-  - type: contact
-    label: '+60123857845'
-    url: 'tel:+60123857845'
+github: true
