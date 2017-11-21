@@ -6,8 +6,8 @@ description: >-
   ensure your needs are met. Our team of broad artistic skills provide our
   clients a range of services ranging from  Campaign Launches + Brand Identity +
   Print & Digital Design + Photography
-dateModified: '2017-11-21T14:30:21.192Z'
-datePublished: '2017-11-21T14:30:21.473Z'
+dateModified: '2017-11-21T15:41:00.253Z'
+datePublished: '2017-11-21T15:41:01.122Z'
 title: Our Services
 author: []
 publisher: {}
