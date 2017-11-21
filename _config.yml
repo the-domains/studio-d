@@ -25,11 +25,11 @@ navigation:
   - name: Partners in Crime
     id: 86491170-70f9-44f7-bb47-95d159e01480
     type: content
-  - name: Our Services
-    id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
-    type: content
   - name: Our Rice Bowl
     id: bea63015-0eac-4e72-8609-30c3af48c503
+    type: content
+  - name: Our Services
+    id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
