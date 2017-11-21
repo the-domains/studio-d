@@ -23,7 +23,7 @@ navigation:
   - name: Our Rice Bowl
     id: bea63015-0eac-4e72-8609-30c3af48c503
     type: content
-title: Studio d3
+title: d3 Studios
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
