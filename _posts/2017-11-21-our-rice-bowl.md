@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: CONNECT
-dateModified: '2017-11-21T16:57:15.341Z'
-datePublished: '2017-11-21T16:58:35.487Z'
+dateModified: '2017-11-21T17:02:19.942Z'
+datePublished: '2017-11-21T17:02:20.758Z'
 title: Our Rice Bowl
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-21-our-rice-bowl.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-21T16:58:35.487Z'
-sourcePath: _posts/2017-11-21-our-rice-bowl.md
-_type: Blurb
+url: our-rice-bowl/index.html
+_type: Article
 
 ---
 CONNECT
