@@ -16,11 +16,11 @@ navigation:
   - name: Partners in Crime
     id: 86491170-70f9-44f7-bb47-95d159e01480
     type: content
-  - name: Our Services
-    id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
-    type: content
   - name: Our Rice Bowl
     id: bd4a236d-c273-44ea-b38d-3861955060a8
+    type: content
+  - name: Our Services
+    id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
     type: content
 title: Third Rock
 content:
