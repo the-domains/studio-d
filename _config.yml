@@ -1,3 +1,5 @@
+name: Third Rock
+layout_spectrum: 0.26946372373970134
 typography_spectrum: 0.6179477641473312
 color:
   brandColors:
@@ -10,9 +12,15 @@ color:
   lightness: 0.3773114719891939
   saturation: 0.30211365081803265
   rhythmicContrast: 0.9604273165469196
-github: true
-layout_spectrum: 0.26946372373970134
-name: Third Rock
+purpose:
+  - type: contact
+    label: Contact Us
+    url: 'mailto:trdrock@gmail.com'
+  - type: contact
+    label: '+60123857845'
+    url: 'tel:+60123857845'
+title: d3 Studios
+description: 'Connect. Collaborate. Create. '
 navigation:
   - name: Partners in Crime
     id: 86491170-70f9-44f7-bb47-95d159e01480
@@ -23,7 +31,6 @@ navigation:
   - name: Our Rice Bowl
     id: bea63015-0eac-4e72-8609-30c3af48c503
     type: content
-title: Third Rock
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -33,19 +40,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/85db8b6c-0e65-4343-84eb-010bfe72a4e6.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -57,27 +61,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc72df70-372f-4303-a1bf-0dee02e825c0.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Connect. Collaborate. Create. '
-purpose:
-  - type: contact
-    label: Contact Us
-    url: 'mailto:trdrock@gmail.com'
-  - type: contact
-    label: '+60123857845'
-    url: 'tel:+60123857845'
+github: true
