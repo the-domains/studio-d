@@ -1,4 +1,3 @@
-layout_spectrum: 0.26946372373970134
 typography_spectrum: 0.6179477641473312
 color:
   brandColors:
@@ -11,6 +10,8 @@ color:
   lightness: 0.3773114719891939
   saturation: 0.30211365081803265
   rhythmicContrast: 0.9604273165469196
+github: true
+layout_spectrum: 0.26946372373970134
 name: Third Rock
 navigation:
   - name: Partners in Crime
@@ -18,6 +19,9 @@ navigation:
     type: content
   - name: Our Services
     id: aa2b6a4f-15e2-4f36-a7f8-9c9b56038278
+    type: content
+  - name: Our Rice Bowl
+    id: bea63015-0eac-4e72-8609-30c3af48c503
     type: content
 title: Third Rock
 content:
@@ -50,4 +54,3 @@ purpose:
   - type: contact
     label: '+60123857845'
     url: 'tel:+60123857845'
-github: true
