@@ -24,28 +24,7 @@ navigation:
     id: bea63015-0eac-4e72-8609-30c3af48c503
     type: content
 title: d3 Studios
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81435f0a-8cc8-425e-94ef-dd6fcf1b28a8.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/81435f0a-8cc8-425e-94ef-dd6fcf1b28a8.jpg
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Connect. Collaborate. Create. '
 purpose:
   - type: contact
