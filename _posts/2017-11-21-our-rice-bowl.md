@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: CONNECT
-dateModified: '2017-11-21T16:43:54.225Z'
-datePublished: '2017-11-21T16:43:55.554Z'
+dateModified: '2017-11-21T16:47:49.563Z'
+datePublished: '2017-11-21T16:47:51.054Z'
 title: Our Rice Bowl
 author: []
 publisher: {}
